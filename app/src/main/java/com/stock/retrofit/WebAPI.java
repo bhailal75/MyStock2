@@ -1,8 +1,5 @@
 package com.stock.retrofit;
 
-/**
- * Created by sparken09 on 27/10/17.
- */
 
 public class WebAPI {
     public static final String HEADER_KEY = "token";

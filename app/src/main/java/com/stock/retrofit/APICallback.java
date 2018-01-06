@@ -10,9 +10,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by sparken09 on 27/10/17.
- */
 
 public class APICallback implements Callback {
     private int reqCode;

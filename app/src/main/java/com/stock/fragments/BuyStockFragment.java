@@ -29,9 +29,7 @@ import java.util.List;
 import butterknife.ButterKnife;
 import retrofit2.Call;
 
-/**
- * Created by sparken09 on 24/10/17.
- */
+
 
 public class BuyStockFragment extends Fragment implements StockAdapter.StockClickListner, OnApiResponseListner, SwipeRefreshLayout.OnRefreshListener {
 

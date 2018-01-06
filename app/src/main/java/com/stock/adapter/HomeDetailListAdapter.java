@@ -15,9 +15,7 @@ import com.stock.utility.Utility;
 
 import java.util.List;
 
-/**
- * Created by sparken09 on 26/10/17.
- */
+
 
 public class HomeDetailListAdapter extends RecyclerView.Adapter<HomeDetailListAdapter.ViewHolder> {
 

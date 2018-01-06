@@ -58,9 +58,7 @@ import retrofit2.Call;
 
 import static android.app.Activity.RESULT_OK;
 
-/**
- * Created by sparken09 on 28/10/17.
- */
+
 
 public class ProfileFragment extends BaseFragment implements OnApiResponseListner,SelectPhoto {
     private FragmentProfileBinding mBinding;

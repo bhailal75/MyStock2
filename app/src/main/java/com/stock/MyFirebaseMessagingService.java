@@ -15,9 +15,6 @@ import com.stock.utility.Utility;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by sparken09 on 02/11/17.
- */
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 

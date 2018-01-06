@@ -10,9 +10,6 @@ import com.stock.R;
 import com.stock.fragments.IPOFragment;
 import com.stock.fragments.SmeIPOFragment;
 
-/**
- * Created by sparken09 on 26/10/17.
- */
 
 public class SmeIPOContainer extends BaseContainer {
     private SmeIPOFragment ipo;

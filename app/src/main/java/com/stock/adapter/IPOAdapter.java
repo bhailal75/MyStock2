@@ -18,9 +18,7 @@ import com.stock.retrofit.model.IPODataEntityManager;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by sparken09 on 25/10/17.
- */
+
 
 public class IPOAdapter extends RecyclerView.Adapter<IPOAdapter.ViewHolder> {
 

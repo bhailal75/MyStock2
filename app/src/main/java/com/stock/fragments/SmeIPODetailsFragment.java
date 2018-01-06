@@ -17,9 +17,7 @@ import com.stock.retrofit.model.SmeIPOData;
 
 import butterknife.ButterKnife;
 
-/**
- * Created by sparken09 on 02/11/17.
- */
+
 
 public class SmeIPODetailsFragment extends Fragment {
     private FragmentSmeIpoDetailsBinding mBinding;

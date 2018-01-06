@@ -15,9 +15,7 @@ import com.stock.utility.MyPref;
 import com.stock.utility.Utility;
 
 
-/**
- * Created by Yudiz on 22/11/16.
- */
+
 public class BaseAppCompactActivity extends AppCompatActivity {
     private MyPref myPref;
     private Dialog dialog;

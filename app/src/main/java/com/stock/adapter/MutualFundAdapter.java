@@ -14,9 +14,7 @@ import com.stock.retrofit.model.MutualFundData;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by sparken09 on 25/10/17.
- */
+
 
 public class MutualFundAdapter extends RecyclerView.Adapter<MutualFundAdapter.ViewHolder>{
     private Context context;

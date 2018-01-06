@@ -21,9 +21,7 @@ import retrofit2.http.Multipart;
 import retrofit2.http.POST;
 import retrofit2.http.Part;
 
-/**
- * Created by sparken09 on 27/10/17.
- */
+
 
 public interface APICall {
     int Token_RES_CODE = 401;

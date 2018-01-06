@@ -41,9 +41,7 @@ import java.util.List;
 import butterknife.ButterKnife;
 import retrofit2.Call;
 
-/**
- * Created by sparken09 on 24/10/17.
- */
+
 
 public class IPOFragment extends BaseFragment implements IPOAdapter.IPOClickListner, OnApiResponseListner, SwipeRefreshLayout.OnRefreshListener {
     private FragmentIpoBinding mBinding;

@@ -34,9 +34,6 @@ import java.util.regex.Pattern;
 import de.keyboardsurfer.android.widget.crouton.Configuration;
 import de.keyboardsurfer.android.widget.crouton.Crouton;
 
-/**
- * Created by sparken09 on 27/10/17.
- */
 
 public class Utility {
     private static DialogFragment dateDialogFragment;

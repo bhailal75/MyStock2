@@ -18,9 +18,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by Jaison on 17/06/17.
- */
+
 
 public class AlarmReceiver extends BroadcastReceiver {
 

@@ -18,9 +18,6 @@ import com.stock.retrofit.model.IPOData;
 
 import butterknife.ButterKnife;
 
-/**
- * Created by sparken09 on 26/10/17.
- */
 
 public class IPODetailsFragment extends Fragment {
     private FragmentIpoDetailsBinding mBinding;

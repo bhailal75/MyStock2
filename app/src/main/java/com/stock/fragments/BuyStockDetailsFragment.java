@@ -22,9 +22,6 @@ import java.util.List;
 
 import butterknife.ButterKnife;
 
-/**
- * Created by sparken09 on 26/10/17.
- */
 
 public class BuyStockDetailsFragment extends Fragment {
     private FragmentBuyStockDetailsBinding mBinding;

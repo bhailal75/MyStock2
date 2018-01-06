@@ -20,9 +20,7 @@ import okhttp3.RequestBody;
 import retrofit2.Call;
 import retrofit2.Retrofit;
 
-/**
- * Created by sparken09 on 27/10/17.
- */
+
 
 public class ApiTask {
     private final APICall apiCall;

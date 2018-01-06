@@ -6,9 +6,7 @@ import android.content.SharedPreferences;
 import com.stock.R;
 
 
-/**
- * Created by sachin on 6/9/17.
- */
+
 
 public class MyPref {
 

@@ -9,9 +9,7 @@ import android.view.ViewGroup;
 import com.stock.R;
 import com.stock.fragments.HomeFragment;
 
-/**
- * Created by sparken09 on 26/10/17.
- */
+
 
 public class HomeContainer extends BaseContainer {
     private HomeFragment home;

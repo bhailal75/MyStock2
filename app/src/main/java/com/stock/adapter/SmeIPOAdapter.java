@@ -17,9 +17,7 @@ import com.stock.retrofit.model.SmeIPODataEntityManager;
 
 import java.util.List;
 
-/**
- * Created by sparken09 on 02/11/17.
- */
+
 
 public class SmeIPOAdapter extends RecyclerView.Adapter<SmeIPOAdapter.ViewHolder> {
     private Context context;

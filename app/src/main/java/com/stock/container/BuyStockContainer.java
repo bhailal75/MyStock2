@@ -9,9 +9,7 @@ import android.view.ViewGroup;
 import com.stock.R;
 import com.stock.fragments.BuyStockFragment;
 
-/**
- * Created by sparken09 on 26/10/17.
- */
+
 
 public class BuyStockContainer extends BaseContainer {
     private BuyStockFragment buyStock;

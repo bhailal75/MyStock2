@@ -21,9 +21,6 @@ import java.util.List;
 
 import okhttp3.internal.Util;
 
-/**
- * Created by sparken09 on 25/10/17.
- */
 
 public class HomeListAdapter extends RecyclerView.Adapter<HomeListAdapter.ViewHolder> {
 

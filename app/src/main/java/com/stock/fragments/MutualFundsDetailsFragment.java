@@ -18,9 +18,7 @@ import com.stock.retrofit.model.MutualFundData;
 
 import butterknife.ButterKnife;
 
-/**
- * Created by sparken09 on 26/10/17.
- */
+
 
 public class MutualFundsDetailsFragment extends Fragment {
     private FragmentMutualfundsDetailsBinding mBinding;
