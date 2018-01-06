@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">My Money Place</string>
+    <string name="no_data_found">NO DATA FOUND</string>
+
+
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="please_enter_email">Please enter your email. We will send you an  email to change your password.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="no_internet_connection">Your internet connection appears to be offline</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="update_profile">Profile Updated Successfully</string>
+    <string name="email_required">Email is Required</string>
+    <string name="email_hint">Email</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="recoverPassword">Recover</string>
+    <string name="code_hint">Code</string>
+    <string name="newPassword_hint">New Password</string>
+    <string name="create_password">Create Password</string>
+
+    <string name="signIn">SIGN IN</string>
+    <string name="password_hint">Password</string>
+    <string name="create_an_account">Create an account</string>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="buy_stock">Buy Stock</string>
+    <string name="ipo">IPO</string>
+    <string name="sme_ipo">SME IPO</string>
+    <string name="mutual_fund">Mutual Fund</string>
+    <string name="news">News</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="nse_link">NSE Link</string>
+    <string name="bse_link">BSE Link</string>
+    <string name="mse_link">MSE Link</string>
+    <string name="logout">Logout</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="register">REGISTER</string>
+
+    <string name="script_name">Script name</string>
+    <string name="script_code">Script Code</string>
+    <string name="stock_entry">Entry</string>
+    <string name="stock_loss">Stock Loss</string>
+    <string name="stock_target">Target</string>
+    <string name="stock_date">Target Date</string>
+
+    <string name="ipo_name">Name</string>
+    <string name="ipo_price">Price</string>
+    <string name="rating">Rating</string>
+    <string name="subscription">Subscription</string>
+    <string name="lot_size">Lot Size</string>
+    <string name="issue_size">Issue Size</string>
+    <string name="offer_date">Offer Date</string>
+
+    <string name="fund_name">Fund name</string>
+    <string name="_52_week_high">52 Week High</string>
+    <string name="_52_week_low">52 Week Low</string>
+    <string name="returns">Returns</string>
+    <string name="scheme">Scheme</string>
+
+    <string name="one_year">One Year</string>
+    <string name="two_year">Two Year</string>
+    <string name="three_year">Three Year</string>
+    <string name="five_year">Five Year</string>
+
+    <string name="title">title</string>
+    <string name="news_content">Content</string>
+
+    <string name="phone_no">phone no</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="smeipo_name">Name</string>
+    <string name="message">message</string>
+    <string name="save_profile">Save Profile</string>
+
+    <string name="price">Price</string>
+
+    <string name="change_password">Change Password</string>
+    <string name="Current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="cancel">Cancel</string>
+    <string name="msg_current_password">Current password is required</string>
+    <string name="msg_new_password">New password is required</string>
+    <string name="msg_confirm_password">Confirm password is required</string>
+    <string name="change_new_confirm_not_match">New password and Confirm password are not same</string>
+    <string name="change_current_new_match">Current password and New Password are same</string>
+    <string name="allotment_date">Allotment Date</string>
+    <string name="listing_date">Listing Date</string>
+
+</resources>
